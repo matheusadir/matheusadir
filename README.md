@@ -2,7 +2,8 @@
 
 **`Estudante de Programação`**
 
-Me chamo Matheus Adir, tenho 22 anos e sou natural de Brasília. Atualmente, estou cursando Ciências da Computação na Cruzeiro do Sul.
+Me chamo Matheus Adir, tenho 22 anos e sou natural de Brasília.<br>
+Atualmente, estou cursando Ciências da Computação na Cruzeiro do Sul.
 
 ---
 
