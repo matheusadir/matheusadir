@@ -1,10 +1,10 @@
 # 🧑🏻‍💻 Matheus Adir
 
-<!-- **`Seja bem-vindo, onde o tempo não para!`**
+**`Seja bem-vindo, onde o tempo não para!`**
 
 <img width="250px" src="./src/astronauta.gif" alt="gif da tela inicial do projeto xxx">
 
---- -->
+---
 
 ### 🤖 Linguagens e Tecnologias
 
